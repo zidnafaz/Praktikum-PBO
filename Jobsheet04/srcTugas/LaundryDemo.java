@@ -17,12 +17,12 @@ public class LaundryDemo {
         System.out.println(p1.getInfo());
         System.out.println("=======================================================");
         
-        Pelanggan p2 = new Pelanggan(4231, "Willy", "Jl. Senggani");
+        Pelanggan p2 = new Pelanggan(4232, "Anita", "Jl. Manggis");
         p2.tambahTransaksi(1.8, imam, ola);
         System.out.println(p2.getInfo());
         System.out.println("=======================================================");
         
-        Pelanggan p3 = new Pelanggan(4231, "Willy", "Jl. Senggani");
+        Pelanggan p3 = new Pelanggan(4233, "Salman", "Jl. Mangga");
         System.out.println(p3.getInfo());
         System.out.println("=======================================================");
 
