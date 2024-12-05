@@ -5,8 +5,8 @@ import java.util.ArrayList;
 public class Demo {
     public static void main(String[] args) {
         
-        Pegawai pegawai3 = new Pegawai();
-        Dosen dosen3 = (Dosen) pegawai3;
+        // Pegawai pegawai3 = new Pegawai();
+        // Dosen dosen3 = (Dosen) pegawai3;
         
         // Pegawai pegawai1 = dosen1;
         
